@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 // to get current year
 function getYear() {
     var currentDate = new Date();

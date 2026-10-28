@@ -1,0 +1,21 @@
+/* TEAM */
+
+    Desenvolvido por: MTHBARROS
+    Site: https://mthbarros.com.br
+    Local: Curitiba, Paraná, Brasil
+
+    Agência: Agência Fellow Ship
+    Site: https://agenciafellowship.com.br
+    Local: Curitiba, Paraná, Brasil
+
+/* SITE */
+
+    Projeto: Portfólio de estudos
+    Endereço: https://matheushenriquebarros.github.io
+    Última atualização: 2026/10/28
+    Idioma: Português (Brasil)
+    Tecnologias: HTML5, CSS3, JavaScript, Bootstrap, jQuery
+    Hospedagem: GitHub Pages
+
+Desenvolvido por MTHBARROS · mthbarros.com.br
+Agência Fellow Ship · agenciafellowship.com.br

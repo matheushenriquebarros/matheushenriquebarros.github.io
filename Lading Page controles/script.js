@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 const imgSlider = document.querySelector('.img-slider');
 const items = document.querySelectorAll('.item');
 const imgItems = document.querySelectorAll('.img-item');
